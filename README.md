@@ -20,6 +20,8 @@ Your Django application is now available at `http://localhost:8000`.
 
 ## One-Click Deploy
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
+Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples)
+
+
 
 [![Deployed with Vercel](https://vercel.com/button)](https://descriptionvocal.vercel.app/)
