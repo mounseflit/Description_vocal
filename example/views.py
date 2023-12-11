@@ -22,7 +22,7 @@ def rot13_encrypt(input_string):
 
 
 # openai.api_key = os.environ.get('api_key')
-openai.api_key = rot13_encrypt("fx-tRkZ4auwLoAPzS2huTMmG3OyoxSWdcCOwYOIg8o1qwTuncJq")
+openai.api_key = rot13_encrypt("fx-CNJeCMn57LxQm8n1h3LbG3OyoxSW1JBjY5C8a5qF4iQclFlZ")
 
 def index(request):
     return render(request, 'index.html')
